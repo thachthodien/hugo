@@ -1,3 +1,6 @@
 [submodule "themes/tranquilpeak"]
 	path = themes/tranquilpeak
 	url = git@github.com:kakawait/hugo-tranquilpeak-theme.git
+[submodule "thachthodien.github.io"]
+	path = thachthodien.github.io
+	url = git@github.com:thachthodien/thachthodien.github.io.git
