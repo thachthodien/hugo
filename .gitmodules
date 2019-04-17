@@ -1,0 +1,9 @@
+[submodule "thachthodien.github.io"]
+	path = thachthodien.github.io
+	url = git@github.com:thachthodien/thachthodien.github.io.git
+[submodule "themes/themes/tranquilpeak"]
+	path = themes/themes/tranquilpeak
+	url = git@github.com:kakawait/hugo-tranquilpeak-theme.git
+[submodule "themes/tranquilpeak"]
+	path = themes/tranquilpeak
+	url = git@github.com:kakawait/hugo-tranquilpeak-theme.git
